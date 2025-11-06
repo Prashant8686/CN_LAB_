@@ -1,0 +1,13 @@
+This is to inform you that these are the topics covers for the computer network lab internals 
+
+1.LAN  configuration (Switch, Hub, Router)
+       Hub: https://www.youtube.com/watch?v=VGxc6Q-JnxA
+       Switch : https://www.youtube.com/watch?v=eFY6mi3lmRQ&t=134s
+       Router : https://www.youtube.com/watch?v=FnH1XUQsoD8
+2.Client and server - https://www.youtube.com/watch?v=RNv2HKz931o
+3. Subnetting - subnets, 4 subnets, and subnetting based on host number
+4. DHCP-https://www.youtube.com/watch?v=ZCz9rRhzNy4
+5.NAT- https://www.youtube.com/watch?v=NIaP2Bkzs6k&t=257s
+6.RIP-GCR
+7.OSPF-GCR
+8.VOIP- https://www.youtube.com/watch?v=QNmvkB3hy3o
